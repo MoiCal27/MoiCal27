@@ -27,16 +27,15 @@
 
 <br>
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=MoiCal27&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 
 ### 〔 Who I Am 〕
 
 ```yaml
 name:     Moisés Calderón
-role:     Full-Stack Developer
-location: El Salvador 🇸🇻
+role:     Fronted-first developer, full stack capable.
+location: El Salvador
 status:   Open to opportunities
-focus:    Web Applications
+focus:    Web & Desktop Applications
 ```
 
 **What drives me:**
