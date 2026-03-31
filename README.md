@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ███╗ ██████╗ ██╗███████╗███████╗███████╗
-████╗ ████║██╔═══██╗██║██╔════╝██╔════╝██╔════╝
-██╔████╔██║██║   ██║██║███████╗█████╗  ███████╗
-██║╚██╔╝██║██║   ██║██║╚════██║██╔══╝  ╚════██║
-██║ ╚═╝ ██║╚██████╔╝██║███████║███████╗███████║
-╚═╝     ╚═╝ ╚═════╝ ╚═╝╚══════╝╚══════╝╚══════╝
+███╗   ███╗ ██████╗ ██╗ ██████╗ █████╗ ██╗     ██████╗ ███████╗
+████╗ ████║██╔═══██╗██║██╔════╝██╔══██╗██║     ╚════██╗╚════██║
+██╔████╔██║██║   ██║██║██║     ███████║██║      █████╔╝    ██╔╝
+██║╚██╔╝██║██║   ██║██║██║     ██╔══██║██║     ██╔═══╝    ██╔╝ 
+██║ ╚═╝ ██║╚██████╔╝██║╚██████╗██║  ██║███████╗███████╗   ██║  
+╚═╝     ╚═╝ ╚═════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝  
 ```
 
 ### `< developer />` &nbsp;·&nbsp; `{ builder }` &nbsp;·&nbsp; `# learner`
@@ -91,44 +91,7 @@ focus:    Web Applications
 
 ---
 
-<br>
-
-### 〔 GitHub Activity 〕
-
 <div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=MoiCal27&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoiCal27&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="40%" />
-
-<br><br>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MoiCal27&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-### 〔 A thought for today 〕
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br>
-
-### 〔 Top Contributions 〕
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=MoiCal27&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br>
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=MoiCal27&icon=5&color=6)
-
-<br>
 
 ```
 // Thanks for stopping by — let's build something.
